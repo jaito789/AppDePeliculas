@@ -1,0 +1,82 @@
+[
+    {
+        "titulo": "Batman",
+        "calificacion": "7.5/10",
+        "director": "Tim Burton",
+        "actores": "Michael Keaton, Jack Nicholson, Kim Basinger",
+        "fecha_lanzamiento": "23 Jun 1989",
+        "duracion": "126 min",
+        "descripcion": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+        "img":"https://m.media-amazon.com/images/M/MV5BZDNjOGNhN2UtNmNhMC00YjU4LWEzMmUtNzRkM2RjN2RiMjc5XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_SX300.jpg"
+    },
+    {
+        "titulo": "2012", 
+        "calificacion": "5.8/10",
+        "director": "Roland Emmerich",
+        "actores": "John Cusack, Thandiwe Newton, Chiwetel Ejiofor",
+        "fecha_lanzamiento": "13 Nov 2009", 
+        "duracion": "158 min",
+        "descripcion":"A frustrated writer struggles to keep his family alive when a series of global catastrophes threatens to annihilate mankind.",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_SX300.jpg"
+    },
+    {
+        "titulo": "Flash", 
+        "calificacion": "7.1/10",
+        "director": "Simon Wincer",
+        "actores": "Lucas Black, Brian Kerwin, Shawn Toovey, Tom Nowicki",
+        "fecha_lanzamiento": "21 Dec 1997", 
+        "duracion": "90 min",
+        "descripcion": "A boy falls in love with a horse named Flash that's for sale. He gets a job to earn the money to buy the horse, but he's forced to sell when the family falls upon hard times. This ...",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTkwNzY4Mzg5N15BMl5BanBnXkFtZTcwNzE4MzEyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "titulo": "Amores Perros", 
+        "calificacion": "8.1/10",
+        "director": "Alejandro G. Iñárritu",
+        "actores": "Emilio Echevarría, Gael García Bernal, Goya Toledo",
+        "fecha_lanzamiento": "13 Apr 2001",
+        "duracion": "154 min",
+        "descripcion": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+    },
+    {
+        "titulo": "Meteoro", 
+        "calificacion": "7.2/10",
+        "director": "Diego de la Texera",
+        "actores": "Lucci Ferreira, María Dulce Saldanha, Pietro Mário",
+        "fecha_lanzamiento": "01 Nov 2006",
+        "duracion": "117 min",
+        "descripcion": "In the early 1960's, a group of people responsible for the construction of the Brasilia-Fortaleza road is abandoned in the middle of the jungle by the Brazilian government, after the military coup.",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjhjODU5ZDMtYzE2OS00OTQ3LWI0MWYtY2RmMmE3MjE3Njg3XkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_SX300.jpg"
+    },
+    {
+        "titulo": "Speed Racer",
+        "calificacion": "6.0/10",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "actores": "Emile Hirsch, Matthew Fox, Christina Ricci",
+        "fecha_lanzamiento": "09 May 2008",
+        "duracion": "135 min",
+        "descripcion": "Young driver Speed Racer aspires to be champion of the racing world with the help of his family and his high-tech Mach 5 automobile.",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWU4Y2RhYzMtYzIxZC00NmRlLTk0OTctNDg1NTg5Yjk4YjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "titulo": "Avatar",
+        "calificacion": "7.9/10",
+        "director": "James Cameron",
+        "actores": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+        "fecha_lanzamiento": "18 Dec 2009",
+        "duracion": "162 min",
+        "descripcion": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+    },
+    {
+        "titulo": "Cobra Kai",
+        "calificacion": "8.5/10",
+        "director": "N/A",
+        "actores": "Ralph Macchio, William Zabka, Courtney Henggeler",
+        "fecha_lanzamiento": "02 May 2018",
+        "duracion": "30 min",
+        "descripcion": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWU4ZmI0NTItZjcyNy00MzQ5LThiNDQtZDZkNjg1NWUwN2RhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    }
+]
